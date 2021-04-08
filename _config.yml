@@ -36,19 +36,19 @@ features                                  :
 
   - title                                 : Trip Planning
     description                           : Get directions anywhere in El Paso riding Sun Metro.
-    fontawesome_icon_name                 : magic
+    fontawesome_icon_name                 : route
     
   - title                                 : Bus Stop Information
     description                           : Look up bus stops around you and check departure times for each route serviced.
-    fontawesome_icon_name                 : mobile
+    fontawesome_icon_name                 : bus
 
   - title                                 : Route Maps
-    description                           : See color-coded route paths and stops serviced along both inbound and outbound headings.
-    fontawesome_icon_name                 : play-circle
+    description                           : Displays color-coded routes and stops serviced along the way.
+    fontawesome_icon_name                 : map
 
   - title                                 : BCycle Stations
     description                           : Switch on BCycle station markers to get live info on available bikes and open docks.
-    fontawesome_icon_name                 : sync
+    fontawesome_icon_name                 : map-marker-alt
 
 
   - title                                 : # New Feature Title
@@ -68,7 +68,7 @@ cover_overlay_transparency                : 0.8
 
 device_color                              : white                                     # Set to: blue, black, yellow, coral or white.
 
-body_background_color                     : "#ffffff"
+body_background_color                     : "##7d1d7e"
 
 link_color                                : "#1d63ea"
 
@@ -79,8 +79,8 @@ app_description_color                     : "#ffffff"
 feature_title_color                       : "#000000"
 feature_text_color                        : "#666666"
 
-feature_icons_foreground_color            : "#1d63ea"
-feature_icons_background_color            : "#e6e6e6"
+feature_icons_foreground_color            : "#FFE603"
+feature_icons_background_color            : "#34FDFF"
 
 social_icons_foreground_color             : "#666666"
 social_icons_background_color             : "#e6e6e6"
