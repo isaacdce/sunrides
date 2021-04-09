@@ -35,7 +35,7 @@ youtube_username                          :
 features                                  :
 
   - title                                 : Trip Planning
-    description                           : Get directions to help you navigate around El Paso using the public transit system.
+    description                           : Get directions to help navigate around El Paso using the public transit system.
     fontawesome_icon_name                 : route
     
   - title                                 : Bus Stop Information
